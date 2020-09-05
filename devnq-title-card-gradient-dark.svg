@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="211.66666mm"
+   height="119.23888mm"
+   viewBox="0 0 211.66666 119.23888"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="devq-title-card.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1111">
+      <stop
+         style="stop-color:#9edbdb;stop-opacity:1"
+         offset="0"
+         id="stop1107" />
+      <stop
+         style="stop-color:#d23055;stop-opacity:1"
+         offset="1"
+         id="stop1109" />
+    </linearGradient>
+    <style
+       id="style957">
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #d33232;
+        filter: url(#filter);
+      }
+    </style>
+    <filter
+       filterUnits="userSpaceOnUse"
+       height="174.532"
+       width="439.65701"
+       y="26.906"
+       x="17.031"
+       id="filter">
+      <feFlood
+         id="feFlood959"
+         flood-color="#d33232"
+         result="flood" />
+      <feComposite
+         id="feComposite961"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite" />
+      <feBlend
+         mode="normal"
+         id="feBlend963"
+         in2="SourceGraphic"
+         result="blend" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1111"
+       id="linearGradient1113"
+       x1="-0.87585354"
+       y1="-20.633993"
+       x2="191.8589"
+       y2="-20.633993"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-9.5250003)" />
+  </defs>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="413.35749"
+     inkscape:cy="307.4759"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1311"
+     inkscape:window-height="1192"
+     inkscape:window-x="1734"
+     inkscape:window-y="101"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(10.341805,79.4776)"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#363636;fill-opacity:1;stroke-width:0.185208;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="rect1007"
+       width="211.66666"
+       height="119.23888"
+       x="-10.341805"
+       y="-79.4776" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.89745px;line-height:1.25;font-family:sans-serif;letter-spacing:0.79375px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.172436"
+       x="32.509174"
+       y="26.856495"
+       id="text1001"><tspan
+         sodipodi:role="line"
+         x="32.906048"
+         y="26.856495"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.172436"
+         id="tspan1005">1 OCTOBER 2020</tspan></text>
+    <g
+       id="g983"
+       transform="matrix(0.0599214,0,0,0.0599214,142.42307,16.186758)">
+      <path
+         d="M 602.1,155.78 501.867,26.92 h -29.13 v 172.553 h 29.13 V 73.576 l 97.761,125.9 h 31.6 V 26.92 H 602.1 Z m 166.143,69.613 a 57.467,57.467 0 0 0 30.357,8.887 q 27.646,0 49.127,-22.711 l -16.54,-22.957 a 35.054,35.054 0 0 1 -13.7,12.836 37.889,37.889 0 0 1 -18.392,4.937 q -12.838,0 -21.231,-11.108 a 87.086,87.086 0 0 0 41.474,-32.215 q 15.554,-22.339 15.553,-51.223 0,-38.012 -26.168,-63.566 -26.168,-25.554 -64.68,-25.55 -38.511,0 -64.68,25.55 -26.169,25.55 -26.163,63.689 0,38.141 26.168,63.69 26.168,25.549 64.68,25.549 l 3.7,-0.247 a 47.987,47.987 0 0 0 20.491,24.439 z m 36.784,-113.431 q 0,26.048 -17.651,44.311 -17.651,18.263 -43.326,18.268 -25.678,0 -43.326,-18.268 -17.648,-18.268 -17.651,-44.311 0,-26.041 17.651,-44.311 17.651,-18.27 43.326,-18.267 25.672,0 43.326,18.267 17.654,18.267 17.647,44.311 z"
+         class="cls-1"
+         data-name="DevNQ copy 2"
+         id="DevNQ_copy_2"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         d="M 76.267,26.92 H 17.019 v 172.553 h 57.273 q 49.864,0 74.061,-23.451 24.197,-23.451 24.193,-63.689 0,-40.234 -24.934,-62.825 Q 122.678,26.917 76.267,26.92 Z m 50.238,130.217 q -16.663,14.939 -48.016,14.935 H 46.149 V 53.828 H 75.28 q 67.887,0 67.889,59.245 0,29.127 -16.664,44.064 z M 318.446,126.9 q 0,-28.385 -18.762,-44.558 Q 280.922,66.169 254.136,66.17 A 66.283,66.283 0 0 0 207.6,84.438 q -19.754,18.271 -19.749,49.248 0.005,30.977 19.379,49.371 19.377,18.393 47.029,18.391 34.068,0 55.3,-21.97 l -15.8,-17.28 q -12.84,15.552 -37.524,15.552 a 45.913,45.913 0 0 1 -27.65,-8.764 q -12.1,-8.758 -13.084,-23.081 H 318.446 Z M 227.6,99.126 a 43.734,43.734 0 0 1 27.279,-9.257 q 15.181,0 25.551,8.887 10.37,8.887 10.37,25.426 h -75.3 q 0,-15.795 12.1,-25.056 z M 403.862,199.473 456.693,68.145 H 428.056 L 388.063,167.382 348.07,68.145 h -28.637 l 52.83,131.328 h 31.6 z"
+         class="cls-2"
+         data-name="DevNQ copy"
+         id="DevNQ_copy" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.3583px;line-height:0.95;font-family:sans-serif;letter-spacing:2.11667px;fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.508956"
+       x="-2.5146966"
+       y="-22.799473"
+       id="text1087"><tspan
+         sodipodi:role="line"
+         id="tspan1085"
+         x="-2.5146966"
+         y="-22.799473"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Ultra-Bold';fill:url(#linearGradient1113);fill-opacity:1;stroke-width:0.508956">HANDS-ON +</tspan><tspan
+         id="tspan865"
+         sodipodi:role="line"
+         x="-2.5146966"
+         y="-3.099364"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Ultra-Bold';fill:url(#linearGradient1113);fill-opacity:1;stroke-width:0.508956">HACKTOBERFEST</tspan></text>
+    <text
+       id="text1097"
+       y="-42.983398"
+       x="-1.4966321"
+       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;letter-spacing:1.05833px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.508956"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.1111px;font-family:Lato;-inkscape-font-specification:'Lato Semi-Bold';fill:#ffffff;stroke-width:0.508956"
+         y="-42.983398"
+         x="-1.4966321"
+         id="tspan1095"
+         sodipodi:role="line">OPEN SOURCE<tspan
+   id="tspan867"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Heavy'">:</tspan></tspan></text>
+  </g>
+</svg>
